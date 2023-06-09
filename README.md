@@ -1,2 +1,2 @@
 # JavaScript_Inge2
-JavaScript project for our 8th semester project w/ @tombrousd (Tom Broussard), @Loriscristo (Loris Cristofaro), Rayane Chouaref
+Projet JavaScript avec @tombrousd (Tom Broussard), @Loriscristo (Loris Cristofaro), @rxszkin (Rayane Chouaref) et moi même (Pierre Bourdel)
