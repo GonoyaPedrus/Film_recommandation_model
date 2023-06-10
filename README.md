@@ -10,7 +10,7 @@ Vous observerez 2 fichiers différents en raison de 2 manières différentes de 
 
 
 
-###### Pour le fichier RecupFilm :
+# Pour le fichier RecupFilm :
 
 # Recherche de films similaires
 
