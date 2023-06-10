@@ -12,7 +12,7 @@ Vous observerez 2 fichiers différents en raison de 2 manières différentes de 
 
 # Pour le fichier RecupFilm :
 
-# Recherche de films similaires
+## Recherche de films similaires
 
 Ce projet est une application Node.js qui permet de rechercher des films similaires à partir d'une base de données de films. L'application utilise le framework Express pour créer un serveur et fournit une API pour effectuer des recherches. Malheureusement nous ne sommes pas venu à bout de la réalisation du site. Le code fonctionne mais son application sur le site avec le code html ne fonctionne pas. Vueillez donc lancez le code "RecupFilm.js" indépendament du code html pour un meilleur aperçu. 
 
